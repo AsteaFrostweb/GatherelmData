@@ -1,0 +1,13 @@
+LOCATION:
+wonders the footpath back and forth
+
+
+DIALOGUE:
+"leave me be traveller"
+"im extremely busy, stop talking to me"
+"a big fight which... hey, go away!"
+
+
+DESCRIPTION:
+confused at to why the giants left/died out.
+questioning what killed them, or drove them out.

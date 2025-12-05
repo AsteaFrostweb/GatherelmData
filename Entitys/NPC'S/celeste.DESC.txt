@@ -1,0 +1,17 @@
+LOCATION:
+stand near world spawn
+
+
+
+DIALOGUE:
+
+(help the player understand basics)
+TBD ^
+
+
+
+DESCRIPTION:
+a tutor guide, to help new players know whats what 
+(similar to starting a new RSPS)
+
+celeste's backstory is unknown.
